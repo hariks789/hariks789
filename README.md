@@ -4,7 +4,6 @@
 <h3 align="center" justify="center">React Native </h3>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariks789&label=Profile%20views&color=0e75b6&style=flat" alt="hariks789" /> </p>
 
 - 💬 Ask me about **react native** 
 
