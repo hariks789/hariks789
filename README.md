@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hari Kumar Sunil aka Hariks</h1>
+<h1 align="center">Hi 👋, I'm Hari Kumar Sunil(Hariks)</h1>
 <p align="center">
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 <h3 align="center" justify="center">React Native </h3>
